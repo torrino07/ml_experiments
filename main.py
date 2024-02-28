@@ -1,7 +1,5 @@
 import pandas as pd
 import histfuncs as hf
-import math
-import scipy
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
