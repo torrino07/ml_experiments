@@ -3,7 +3,7 @@ import histfuncs as hf
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
-file_path = "data/assignment_train_sample.csv"
+file_path = "assignment_train_sample.csv"
 
 df = pd.read_csv(file_path)
 
